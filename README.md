@@ -50,4 +50,4 @@ Prepare a table reporting the training and test set losses. For each network, re
 
 This project demonstrates the implementation and evaluation of ANN regressors on a simple dataset. By exploring different network complexities, learning rates, and initial weight ranges, we identify the optimal configuration for achieving the best performance. The results underscore the importance of balancing model complexity to avoid underfitting and overfitting, thereby ensuring robust performance on both training and unseen test data.
 
-Contributions and feedback are welcome to further enhance the functionality and usability of the ANN models explored in this project. Thank you for your interest and support!
+Contributions and feedback are welcome to further enhance the functionality and usability of the ANN models explored in this project. The contact is baha.yuzlu@gmail.com Thank you for your interest and support!
